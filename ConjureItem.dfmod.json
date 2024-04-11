@@ -1,0 +1,12 @@
+{
+    "ModTitle": "ConjureItem",
+    "ModVersion": "1.0",
+    "ModAuthor": "Wonder",
+    "DFUnity_Version": "1.1.0",
+    "ModDescription": "Remake of the create item spell, items have duration, alot more items to choose, signifigant Magicka cost reduction, material variants, full armour sets.",
+    "GUID": "fc057292-fc42-4f75-bfe7-c5ace4b36f3b",
+    "Files": [
+        "Assets/Game/Mods/ConjureItems/Scripts/ConjureItem.cs",
+        "Assets/Game/Mods/ConjureItems/ConjureItem.dfmod.json"
+    ]
+}
